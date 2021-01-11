@@ -10,6 +10,19 @@ proj_3
 4.png
 5.png
 6.png
+dog.png
+haarcascade_frontalface_alt.xml
+logo.png
+marks.csv
+PCM.csv
+test.csv
+train.csv
+u.data
+u.info
+u.item
+xdata.csv
+ydata.csv
+mnist_train.csv
 abc.txt
 ab1.txt
 abc.json
@@ -22,3 +35,5 @@ photo-3.jpeg
 photo-4.jpeg
 pokemon_data.csv
 some.txt
+_python_
+data
